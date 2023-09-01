@@ -11,7 +11,7 @@ django-js-asset==1.2.2
 djangorestframework==3.11.2
 filelock==3.3.2
 idna==3.3
-Pillow==8.4.0
+Pillow==9.0.1
 pipenv==2021.11.15
 platformdirs==2.4.0
 psycopg2==2.9.2
